@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satvik-10" alt="satvik-10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sfedasf" target="blank"><img src="https://img.shields.io/twitter/follow/sfedasf?logo=twitter&style=for-the-badge" alt="sfedasf" /></a> </p>
-
 - 🔭 I’m currently working on **Stock Market Price Prediction Using CNN and LSTM**
 
 - 🌱 I’m currently learning **Django and Machine Learning**
