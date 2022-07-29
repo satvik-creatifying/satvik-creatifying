@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satvik-10" alt="satvik-10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/luygto7uyu" target="blank"><img src="https://img.shields.io/twitter/follow/luygto7uyu?logo=twitter&style=for-the-badge" alt="luygto7uyu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sfedasf" target="blank"><img src="https://img.shields.io/twitter/follow/sfedasf?logo=twitter&style=for-the-badge" alt="sfedasf" /></a> </p>
 
 - 🔭 I’m currently working on **Stock Market Price Prediction Using CNN and LSTM**
 
@@ -15,11 +15,14 @@
 
 - 📫 How to reach me **satvikshrivastava12@gmail.com**
 
-- ⚡ Fun fact **I am a Football Pundit (Self Proclaimed),**
+- ⚡ Fun fact **I am a Football Pundit (Self Proclaimed), and a Music Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/luygto7uyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luygto7uyu" height="30" width="40" /></a>
+<a href="https://twitter.com/SatvikShrivas11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sfedasf" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/satvik-shrivastava-0652aa1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fdshdsfhbf" height="30" width="40" /></a>
+<a href="https://instagram.com/satviksh10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fghbfxdx" height="30" width="40" /></a>
+<a href="https://leetcode.com/STVTriesCoding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fgnhgfxdnbgfb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satvik-10&show_icons=true&locale=en&layout=compact" alt="satvik-10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satvik-10&show_icons=true&locale=en" alt="satvik-10" /></p>
+
