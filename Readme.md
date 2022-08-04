@@ -2,8 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satvik-10&label=Profile%20views&color=0e75b6&style=flat" alt="satvik-10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satvik-creatifying
-" alt="satvik-creatifying
-" /></a> </p>
+" alt="satvik-creatifying" /></a> </p>
 
 - 🔭 I’m currently working on **Stock Market Price Prediction Using CNN and LSTM**
 
